@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.headerContainer {
+  display: flex;
+}
+
+.label {
+  display: flex;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.compContainer {
+  display: flex;
+  padding: 10px;
+  border: 1px solid black;
+  height: 100px;
+}
